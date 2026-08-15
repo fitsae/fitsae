@@ -1,6 +1,6 @@
 # Hi 👋, I'm Fitsum Tibebe
 
-### Full-Stack Developer | MERN Stack Developer
+### Full-Stack Developer | MERN Stack Developer | personal trainer
 
 I'm a **Full-Stack Developer specializing in the MERN stack**, passionate about building modern, responsive, and user-friendly web applications.
 
