@@ -91,7 +91,7 @@ I enjoy working across the **frontend, backend, databases, and APIs** while cont
 
 ### 📫 Connect With Me
 
-* 💼 **LinkedIn:** [Fitsum Tibebe](YOUR_LINKEDIN_URL)
+* 💼 **LinkedIn:** [Fitsum Tibebe]([YOUR_LINKEDIN_URL](https://www.linkedin.com/in/fitsum-tibebe-597b53429/))
 * 🐙 **GitHub:** [fitsae](https://github.com/fitsae)
 
 ---
